@@ -29,8 +29,12 @@ Now click Continue. Ensure you have the tickbox next to Administrator ticked—t
 
 Members list of a Discord server with the newly created bot under the "offline" section of the members list
 
-\
+<br />
 
-** Once all this steps are done, you need to put the Bot token into the config.json "BOT_TOKEN" property **
+**Once all this steps are done, you need to put the Bot token into the config.json "BOT_TOKEN" property**
 
-        Source: https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js
+<br />
+
+Source:
+
+        https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js
